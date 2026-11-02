@@ -1,0 +1,43 @@
+{
+  "schema": "companion.v2.release.v2",
+  "product": "我会永远陪着你",
+  "version": "7.0.13",
+  "astrbot_version": ">=4.27.2",
+  "data_policy": "隔离运行数据；仅在用户确认后读取旧版来源并写入新数据根",
+  "provider_integration": "Seven native internal extensions are bundled and owned by one plugin",
+  "native_extensions": [
+    "content",
+    "game",
+    "image",
+    "live",
+    "reality",
+    "screen",
+    "together"
+  ],
+  "external_plugin_dependencies": [],
+  "packages": [
+    {
+      "plugin_id": "astrbot_plugin_private_companion",
+      "version": "7.0.13",
+      "display_name": "我会永远陪着你",
+      "astrbot_version": ">=4.27.2",
+      "filename": "astrbot_plugin_private_companion-7.0.13.zip",
+      "sha256": "8d62443b38148e7f58485b51c4d691c938d5a5accd58c3555b9df129950ed09f",
+      "bytes": 22997338,
+      "files": 2148,
+      "integration": "native-bundled",
+      "execution_owner": "astrbot_plugin_private_companion",
+      "registered_stars": 1,
+      "native_extensions": [
+        "content",
+        "game",
+        "image",
+        "live",
+        "reality",
+        "screen",
+        "together"
+      ],
+      "external_plugin_dependencies": []
+    }
+  ]
+}

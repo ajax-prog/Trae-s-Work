@@ -1,0 +1,2 @@
+8d62443b38148e7f58485b51c4d691c938d5a5accd58c3555b9df129950ed09f  astrbot_plugin_private_companion-7.0.13.zip
+254cc828c5d20d56ccadcb105037caeeef5e1b4a35271973dd055fb8fd156cb0  release-manifest.json
